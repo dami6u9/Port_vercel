@@ -21,6 +21,7 @@ You can view the live version of this portfolio here: [yuary-port.vercel.app](ht
 
 ## 📂 Project Structure
 First try to create an portfolio in vercel, and using vscode with github extension.
+```
 yuary-port/
 ├── assets/ # Images and other resources
 │ └── perfil.jpg # Profile picture
@@ -29,11 +30,14 @@ yuary-port/
 ├── index.html # Main entry point
 ├── script.js # JavaScript logic
 └── style.css # Styling rules
+```
 
 ## 🛠️ How to Use
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/dami6u9/yuary-port.git
+```
+bash
+git clone https://github.com/dami6u9/yuary-port.git
+```
 
 🤝 Contributions
 Feel free to contribute to this project by opening an issue or submitting a pull request. Your feedback is always welcome!
