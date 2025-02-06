@@ -1,9 +1,8 @@
 # 🚀 Alberto Yali - Personal Portfolio
 
-![Portfolio Preview](https://imgur.com/S94QAE6) <!-- Reemplaza esta URL con una captura de pantalla real de tu sitio -->
-
+![Portfolio Preview](https://i.imgur.com/S94QAE6.jpeg)
 ## 📌 About Me
-Hello! I'm **Alberto Yali**, a passionate web developer exploring the world of HTML, CSS, JavaScript, and Python. This portfolio showcases my journey, skills, and projects that I'm proud of. Whether you're here to collaborate or just explore, feel free to dive in!
+Hello! I'm **Alberto**, a passionate web developer exploring the world of HTML, CSS, JavaScript, and Python. This portfolio showcases my journey, skills, and projects that I'm proud of. Whether you're here to collaborate or just explore, feel free to dive in!
 
 ## 🛠️ Technologies Used
 - **HTML5**: Structuring the foundation of the site.
